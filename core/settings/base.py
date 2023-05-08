@@ -101,8 +101,8 @@ if HOSTNAME:
 INTERNAL_PORT = '8080'
 
 # SECURITY WARNING: keep the secret key used in production secret!
-# SECRET_KEY = '$(fefwefwef13;LFK{P!)@#*!)kdsjfWF2l+i5e3t(8a1n'
-SECRET_KEY = os.environ['SECRET_KEY']
+SECRET_KEY = '$(fefwefwef13;LFK{P!)@#*!)kdsjfWF2l+i5e3t(8a1n'
+# SECRET_KEY = os.environ['SECRET_KEY']
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = get_bool_env('DEBUG', True)
