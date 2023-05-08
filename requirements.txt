@@ -150,7 +150,7 @@ six==1.16.0
 sqlparse==0.4.4
 tensorboard==2.12.3
 tensorboard-data-server==0.7.0
-tensorflow
+tensorflow>=2.8.0
 tensorflow-estimator
 tensorflow-io-gcs-filesystem==0.32.0
 termcolor==2.3.0
