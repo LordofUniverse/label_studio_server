@@ -148,11 +148,6 @@ Shapely==1.8.5.post1
 simplejson==3.19.1
 six==1.16.0
 sqlparse==0.4.4
-tensorboard==2.11.2
-tensorboard-data-server==0.6.1
-tensorflow==2.11.1
-tensorflow-estimator==2.11.0
-tensorflow-io-gcs-filesystem==0.32.0
 termcolor==2.3.0
 tinycss2==1.2.1
 tomli==2.0.1
