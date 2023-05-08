@@ -53,7 +53,7 @@ fonttools==4.39.3
 fsspec==2023.4.0
 gast==0.4.0
 google-api-core==2.10.0
-google-auth==2.11.0
+google-auth==2.15.0
 google-auth-oauthlib==1.0.0
 google-cloud-appengine-logging==1.1.0
 google-cloud-audit-log==0.2.0
