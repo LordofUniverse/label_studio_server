@@ -5,6 +5,8 @@ import pathlib
 
 from core.settings.base import *
 
+ROOT_URLCONF = 'core.urls'
+
 DJANGO_DB = get_env('DJANGO_DB', DJANGO_DB_SQLITE)
 DATABASES = {'default': DATABASES_ALL[DJANGO_DB]}
 
